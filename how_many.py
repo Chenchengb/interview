@@ -30,4 +30,4 @@ def how_many_ways(digitarray):
             li[i] += li[i-2]
     return li[length]
 print(how_many_ways('21199'))
-
+#共计用时16分钟
